@@ -43,8 +43,6 @@ A estilização é cuidadosa e inclui:
 
 Desafio #7DaysOfCode - [Link do Desafio](https://www.figma.com/file/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?node-id=0%3A1&mode=dev)
 
-Icons do HTML e CSS:
-
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 
 ---
