@@ -1,4 +1,4 @@
-# OptimusTech Corporate Website 🌐 (https://7-days-of-code-pink.vercel.app/)
+# OptimusTech Corporate Website 🌐 [Link Site](https://7-days-of-code-pink.vercel.app/)
 
 Bem-vindo ao código-fonte do website corporativo da OptimusTech! Este projeto foi desenvolvido como parte do Desafio #7DaysOfCode, uma jornada de sete dias dedicada à codificação para aprimorar habilidades e criar algo incrível. 🚀
 
